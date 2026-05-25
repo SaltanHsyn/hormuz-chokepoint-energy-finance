@@ -1,0 +1,10 @@
+﻿Item,Value
+Source file,Hormuz_Core_Data_v24_Analysis_Prep(1).xlsx
+Panel reconstruction,Reconstructed from Daily_Market_Data and CCI_Recomputed
+Countries,"Türkiye, Israel, India, Japan, China"
+Period,2021-05-24 to 2026-05-18
+Frequency,Country-day
+Fixed effects,Country and year fixed effects
+Standard errors,HC3 robust
+Dependent variables,Financial_Vulnerability_Z; AbsReturn_Vulnerability_Z; FX_Vol_20D_z; Stock_Vol_20D_z
+Note on PP,PP implemented as HAC/Newey-West tau statistic; p-values are MacKinnon approximations

@@ -1,0 +1,9 @@
+﻿Gereksinim,Durum,Paket içindeki karşılık
+Ham veri setleri (CSV),Tamam,data/raw/*.csv ve data/processed/data.csv oluşturuldu
+Veri temizleme scripti,Tamam,scripts/R/01_clean_data.R
+Event-study scripti,Tamam,scripts/R/02_event_study.R
+Panel analiz scripti,Tamam,scripts/R/03_panel_models.R
+Robustness scripti,Tamam,scripts/R/04_robustness.R
+Birim kök test scripti,Tamam,scripts/R/05_unit_root_tests.R
+README dosyası,Tamam,README.md
+GitHub / Zenodo linki,Kullanıcı tarafında,Paket yüklendikten sonra repo/Zenodo DOI alınabilir

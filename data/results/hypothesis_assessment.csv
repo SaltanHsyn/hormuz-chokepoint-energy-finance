@@ -1,0 +1,5 @@
+﻿Hypothesis,Claim,Assessment,Evidence
+H1,Chokepoint shocks increase oil-market uncertainty,Supported,OVX_Change is positive and significant in all event windows.
+H2,Chokepoint shocks increase transport/freight pressure,Partially supported,"BDTI_Return is positive and directionally aligned, but not statistically significant."
+H3,Energy-importing financial markets react to chokepoint shocks,Weak-to-partial support,"FX channels show some alignment, especially USDILS/USDINR/USDJPY, but evidence is heterogeneous."
+H4,Corridor capacity moderates financial vulnerability,Not tested in event study,Requires panel model using CCI and CGRI interaction.

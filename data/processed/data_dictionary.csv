@@ -1,0 +1,35 @@
+﻿variable,role,description
+Date,identifier,Trading date for daily market/panel observation.
+CGRI_Equal_Weighted,market/risk regressor or control,Equal-weighted Chokepoint Geopolitical Risk Index.
+CGRI_Max_Component,market/risk regressor or control,Maximum-component version of CGRI used for robustness.
+Brent_Return,market/risk regressor or control,Daily return on Brent crude price.
+WTI_Return,market/risk regressor or control,Daily return on WTI crude price.
+OVX_Change,market/risk regressor or control,Daily change in oil-market implied volatility / uncertainty proxy.
+VIX_Change,market/risk regressor or control,Daily change in VIX global risk proxy.
+BDI_Return,market/risk regressor or control,Daily return/change in Baltic Dry Index proxy.
+BDTI_Return,market/risk regressor or control,Daily return/change in Baltic Dirty Tanker Index proxy.
+FX_Return,derived/auxiliary variable,Country-specific exchange-rate return.
+Stock_Return,derived/auxiliary variable,Country-specific stock-market return.
+FX_Vol_20D,derived/auxiliary variable,20-day rolling exchange-rate volatility.
+Stock_Vol_20D,derived/auxiliary variable,20-day rolling stock-market volatility.
+ISO3,identifier,ISO3 country code.
+Country,identifier,Country name.
+Year,identifier,Calendar year.
+CCI_Baseline_Recomputed,country-level moderator/control,Recomputed baseline Corridor Capacity Index.
+Energy_Import_Dependency_Raw,country-level moderator/control,Raw energy import dependence measure.
+EnergyImport_Norm,country-level moderator/control,Normalized energy import dependence.
+Abs_FX_Return,derived/auxiliary variable,Absolute value of FX return.
+Abs_Stock_Return,derived/auxiliary variable,Absolute value of stock return.
+FX_Vol_20D_z,dependent variable,Standardized 20-day FX volatility.
+Stock_Vol_20D_z,dependent variable,Standardized 20-day stock volatility.
+Abs_FX_Return_z,derived/auxiliary variable,Standardized absolute FX return.
+Abs_Stock_Return_z,derived/auxiliary variable,Standardized absolute stock return.
+Financial_Vulnerability_Z,dependent variable,Composite standardized financial vulnerability measure.
+AbsReturn_Vulnerability_Z,dependent variable,Alternative vulnerability measure based on absolute returns.
+CGRI_x_CCI,interaction / moderation term,Interaction between CGRI and CCI.
+OVX_x_CCI,interaction / moderation term,Interaction between OVX change and CCI.
+BDI_x_CCI,interaction / moderation term,Interaction between BDI return and CCI.
+BDTI_x_CCI,interaction / moderation term,Interaction between BDTI return and CCI.
+CGRI_Max_x_CCI,interaction / moderation term,Interaction between maximum-component CGRI and CCI.
+CGRI_x_EnergyImport,interaction / moderation term,Interaction between CGRI and energy import dependence.
+OVX_x_EnergyImport,interaction / moderation term,Interaction between OVX change and energy import dependence.

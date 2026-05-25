@@ -1,0 +1,49 @@
+﻿Variable,Category,Window,N,Mean_Adjusted_Sum,Median_Adjusted_Sum,SD,t_stat,p_value,Alignment_Rate,Sig_10pct,Sig_5pct
+BDI_Return,General shipping/freight return,"[-1,+1]",16,-2.111614,-0.575599,5.196499,-1.625413,0.124896,0.5,False,False
+BDI_Return,General shipping/freight return,"[-3,+3]",17,0.901718,1.827692,13.078967,0.284264,0.779854,0.529412,False,False
+BDI_Return,General shipping/freight return,"[-5,+5]",17,2.281973,-0.679338,19.805163,0.475069,0.641158,0.470588,False,False
+BDTI_Return,Crude tanker freight return,"[-1,+1]",11,2.161273,0.187665,4.509635,1.589515,0.143028,0.545455,False,False
+BDTI_Return,Crude tanker freight return,"[-3,+3]",12,3.472553,2.869038,9.41381,1.277833,0.227616,0.666667,False,False
+BDTI_Return,Crude tanker freight return,"[-5,+5]",12,3.308565,4.465776,11.78116,0.972842,0.351539,0.666667,False,False
+BIST100_Return,Equity market return,"[-1,+1]",14,-1.210903,-0.985571,2.948465,-1.536658,0.148352,0.571429,False,False
+BIST100_Return,Equity market return,"[-3,+3]",17,-0.287667,-0.761374,4.738821,-0.25029,0.805548,0.588235,False,False
+BIST100_Return,Equity market return,"[-5,+5]",17,1.988209,3.804937,7.047513,1.16319,0.261807,0.411765,False,False
+Brent_Return,Energy price return,"[-1,+1]",16,0.203498,1.084111,5.01257,0.16239,0.873166,0.5625,False,False
+Brent_Return,Energy price return,"[-3,+3]",17,-0.38698,-2.240485,8.68934,-0.183623,0.856616,0.470588,False,False
+Brent_Return,Energy price return,"[-5,+5]",17,-1.283436,-2.091939,9.728751,-0.543928,0.59399,0.352941,False,False
+NIFTY50_Return,Equity market return,"[-1,+1]",17,-0.184454,-0.318294,1.267541,-0.599998,0.556911,0.588235,False,False
+NIFTY50_Return,Equity market return,"[-3,+3]",17,-0.564344,-0.011248,2.916638,-0.797785,0.436676,0.529412,False,False
+NIFTY50_Return,Equity market return,"[-5,+5]",17,-0.386102,-1.620776,3.893692,-0.408851,0.68807,0.588235,False,False
+NIKKEI225_Return,Equity market return,"[-1,+1]",15,-0.516102,-0.205546,1.784107,-1.120366,0.28141,0.533333,False,False
+NIKKEI225_Return,Equity market return,"[-3,+3]",17,-0.263329,-1.32996,3.637628,-0.298473,0.769183,0.705882,False,False
+NIKKEI225_Return,Equity market return,"[-5,+5]",17,0.17945,-0.143617,4.78001,0.154788,0.878924,0.529412,False,False
+OVX_Change,Oil volatility change,"[-1,+1]",16,3.752176,2.607059,4.038064,3.716807,0.002067,0.8125,True,True
+OVX_Change,Oil volatility change,"[-3,+3]",17,3.527401,3.828824,5.845268,2.488141,0.024246,0.764706,True,True
+OVX_Change,Oil volatility change,"[-5,+5]",17,6.008708,5.79,10.617705,2.333323,0.033006,0.647059,True,True
+SSE_Return,Equity market return,"[-1,+1]",15,0.662256,0.443158,2.173305,1.180187,0.257591,0.333333,False,False
+SSE_Return,Equity market return,"[-3,+3]",17,0.489754,0.293236,2.888018,0.699202,0.494466,0.352941,False,False
+SSE_Return,Equity market return,"[-5,+5]",17,1.003804,0.241765,4.529584,0.913725,0.374426,0.411765,False,False
+TA35_Return,Equity market return,"[-1,+1]",17,-0.025408,0.28982,1.603759,-0.065321,0.948728,0.352941,False,False
+TA35_Return,Equity market return,"[-3,+3]",17,-0.17321,0.093029,3.666618,-0.194774,0.848022,0.470588,False,False
+TA35_Return,Equity market return,"[-5,+5]",17,-0.29816,-1.189361,4.715712,-0.260692,0.797656,0.588235,False,False
+USDCNY_Return,FX depreciation pressure,"[-1,+1]",17,-0.070275,-0.038344,0.241331,-1.20063,0.247369,0.352941,False,False
+USDCNY_Return,FX depreciation pressure,"[-3,+3]",17,-0.062478,-0.115701,0.429372,-0.599955,0.556938,0.470588,False,False
+USDCNY_Return,FX depreciation pressure,"[-5,+5]",17,-0.198089,-0.059853,0.633774,-1.288698,0.215826,0.470588,False,False
+USDILS_Return,FX depreciation pressure,"[-1,+1]",17,0.243038,0.521761,0.811321,1.235111,0.23462,0.764706,False,False
+USDILS_Return,FX depreciation pressure,"[-3,+3]",17,0.167967,0.704193,1.732319,0.399779,0.694606,0.647059,False,False
+USDILS_Return,FX depreciation pressure,"[-5,+5]",17,0.174397,0.621509,2.305087,0.311944,0.759112,0.529412,False,False
+USDINR_Return,FX depreciation pressure,"[-1,+1]",17,0.084142,0.04288,0.323683,1.071813,0.299706,0.647059,False,False
+USDINR_Return,FX depreciation pressure,"[-3,+3]",17,0.12585,0.089574,0.779721,0.665484,0.515221,0.588235,False,False
+USDINR_Return,FX depreciation pressure,"[-5,+5]",17,0.060961,-0.017363,0.760413,0.330544,0.745278,0.411765,False,False
+USDJPY_Return,FX depreciation pressure,"[-1,+1]",17,-0.046772,-0.04333,1.279471,-0.150723,0.882078,0.470588,False,False
+USDJPY_Return,FX depreciation pressure,"[-3,+3]",17,0.429107,0.550989,1.671122,1.058723,0.305448,0.647059,False,False
+USDJPY_Return,FX depreciation pressure,"[-5,+5]",17,0.355275,0.529836,1.834561,0.798467,0.436292,0.647059,False,False
+USDTRY_Return,FX depreciation pressure,"[-1,+1]",17,-0.031911,0.025158,0.361186,-0.364274,0.720423,0.529412,False,False
+USDTRY_Return,FX depreciation pressure,"[-3,+3]",17,-0.005863,-0.009342,0.632564,-0.038213,0.969991,0.470588,False,False
+USDTRY_Return,FX depreciation pressure,"[-5,+5]",17,0.239872,0.092473,0.808598,1.223127,0.238992,0.529412,False,False
+VIX_Change,Global risk volatility change,"[-1,+1]",16,0.559766,1.098235,2.529964,0.885017,0.390114,0.75,False,False
+VIX_Change,Global risk volatility change,"[-3,+3]",17,0.83219,1.748421,2.534179,1.353972,0.194562,0.764706,False,False
+VIX_Change,Global risk volatility change,"[-5,+5]",17,1.279998,1.985789,2.85724,1.847086,0.083312,0.882353,True,False
+WTI_Return,Energy price return,"[-1,+1]",16,0.257833,0.572561,4.263249,0.241912,0.812124,0.625,False,False
+WTI_Return,Energy price return,"[-3,+3]",17,-0.350671,-1.024077,7.55195,-0.191454,0.850578,0.411765,False,False
+WTI_Return,Energy price return,"[-5,+5]",17,0.293879,-0.277302,8.970751,0.135072,0.89424,0.470588,False,False
