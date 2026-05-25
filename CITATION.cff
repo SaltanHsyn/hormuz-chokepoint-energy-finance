@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Replication Package for Chokepoint Risk, Oil-Market Uncertainty, and Financial Vulnerability"
+message: "If you use this replication package, please cite the related article and archived Zenodo record."
+type: software
+authors:
+  - family-names: Saltan
+    given-names: Huseyin
+    orcid: "https://orcid.org/0000-0001-5362-3541"
+repository-code: "https://github.com/SaltanHsyn/hormuz-chokepoint-energy-finance"
+abstract: "Replication package containing raw and processed data, R scripts, diagnostic routines, event-study code, panel models, robustness checks, and documentation for a study on chokepoint risk, oil-market uncertainty, corridor capacity, and financial vulnerability."
+keywords:
+  - energy economics
+  - oil-market uncertainty
+  - chokepoint risk
+  - geopolitical risk
+  - corridor capacity
+  - financial vulnerability
+  - event study
+  - panel data
+  - replication package
+license: CC-BY-4.0
