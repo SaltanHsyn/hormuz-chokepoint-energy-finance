@@ -1,8 +1,12 @@
+## DOI
+
+The replication package is archived on Zenodo:
+
+https://doi.org/10.5281/zenodo.20385469
+
 # Replication package: Chokepoint Risk, Oil-Market Uncertainty, and Financial Vulnerability
 
 This package contains the raw/processed data and analysis scripts for the Energy Economics–ready version of the Hormuz chokepoint article.
-
-## Folder structure
 
 ```text
 data/raw/          Source CSV extracts from the project workbooks
